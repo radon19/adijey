@@ -43,7 +43,7 @@ export default function ContactPage() {
 
             <div style={{ marginBottom: "0.5rem" }}>
               <div style={{ fontFamily: "var(--font-ui)", fontSize: "0.68rem", fontWeight: 700, letterSpacing: "0.2em", textTransform: "uppercase", color: "var(--text-faint)", marginBottom: "0.25rem" }}>Managing Director</div>
-              <div style={{ fontFamily: "var(--font-display)", fontSize: "1.3rem", fontWeight: 600, color: "var(--text-primary)" }}>Aditya</div>
+              <div style={{ fontFamily: "var(--font-display)", fontSize: "1.3rem", fontWeight: 600, color: "var(--text-primary)" }}>Aditya Yadav</div>
             </div>
 
             <div style={{ marginBottom: "1.25rem", marginTop: "1.25rem" }}>
