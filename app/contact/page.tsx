@@ -55,7 +55,7 @@ export default function ContactPage() {
 
             <div style={{ marginBottom: "2rem" }}>
               <div style={{ fontFamily: "var(--font-ui)", fontSize: "0.68rem", fontWeight: 700, letterSpacing: "0.2em", textTransform: "uppercase", color: "var(--text-faint)", marginBottom: "0.5rem" }}>Email</div>
-              {["info@adijey.com", "bd@adijey.com", "info.adijey@gmail.com", "bd.adijey@gmail.com"].map(e => (
+              {["info.adijey@gmail.com"].map(e => (
                 <a key={e} href={`mailto:${e}`} style={{ display: "block", fontFamily: "var(--font-ui)", fontSize: "0.82rem", fontWeight: 600, color: "var(--text-muted)", textDecoration: "none", marginBottom: "0.3rem", transition: "color 0.2s" }}
                   onMouseEnter={ev => (ev.currentTarget.style.color = "var(--gold)")}
                   onMouseLeave={ev => (ev.currentTarget.style.color = "var(--text-muted)")}

@@ -47,7 +47,7 @@ export default function Footer() {
             <a href="tel:+918169384266" style={{ display: "block", fontFamily: "var(--font-ui)", fontSize: "0.82rem", fontWeight: 600, color: "var(--text-muted)", textDecoration: "none", marginBottom: "0.5rem" }}>
               +91 81693 84266
             </a>
-            {["info@adijey.com", "bd@adijey.com"].map(e => (
+            {["info.adijey@gmail.com"].map(e => (
               <a key={e} href={`mailto:${e}`} style={{ display: "block", fontFamily: "var(--font-ui)", fontSize: "0.78rem", fontWeight: 600, color: "var(--text-faint)", textDecoration: "none", marginBottom: "0.25rem" }}>{e}</a>
             ))}
           </div>
