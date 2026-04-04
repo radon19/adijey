@@ -1,37 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AdiJey Engineering Solutions — Official Digital Platform
 
-## Getting Started
+[cite_start]This repository contains the source code for the official website of **AdiJey Engineering Solutions (OPC) Private Limited**[cite: 4]. [cite_start]AdiJey is a "One Stop Engineering Solutions Provider" focused on generating value and driving high performance through in-depth knowledge and value engineering[cite: 6, 7].
 
-First, run the development server:
+## 🏗️ Project Overview
+This project is built using **Next.js** to provide a high-performance, SEO. [cite_start]It serves as a modern interface for clients to explore AdiJey's "Concept to Commissioning" service model[cite: 77].
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Technical Features:
+* **Framework:** Next.js (App Router) for optimized performance and SEO.
+* **UI/UX:** A professional "Dark Industrial" theme reflecting the engineering sector's precision.
+* **Lead Generation:** Custom enquiry forms with anti-spam logic to capture industrial requirements.
+* **Responsiveness:** Fully adaptive design for stakeholders accessing the site via mobile or desktop.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🏢 About the Company
+[cite_start]AdiJey is "Driven by Knowledge & Creating Value," providing actionable insights for sustainable growth[cite: 4, 5].
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* [cite_start]**Leadership:** Founded by a Graduate Engineer from BITS, Pilani, with 30+ years of versatile experience in Strategic Sourcing, Supply Chain, and Project Management[cite: 8].
+* [cite_start]**Mission:** To build a reputation for integrity, excellence, and leadership by constantly striving to exceed client expectations[cite: 10, 12].
+* [cite_start]**Ethos:** Centered on being regarded by all stakeholders as honorable and conscientious[cite: 16].
+* [cite_start]**National Network:** Operating through offices in Raipur, New Delhi, Chennai, Hyderabad, Bangalore, Nagpur, Mangalore, and Buxar[cite: 9, 227, 228].
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Products & Services Portfolio
+[cite_start]The platform showcases an extensive range of industrial solutions[cite: 29]:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. Industrial Supplies
+* [cite_start]**Safety PPE:** Respiratory, eye/face, head, hand, hearing, and fall protection, along with safety shoes[cite: 30, 31].
+* [cite_start]**Electrical & C&I:** Authorized representative of Pune Techtrol for level measurement, gauges, and transmitters[cite: 35].
+* [cite_start]**Consumables:** Welding electrodes, industrial gases, batteries, fasteners, and chemicals[cite: 32].
+* [cite_start]**IT Hardware:** Desktops, laptops, licensed software, and networking components[cite: 46].
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 2. Specialized Engineering & Infrastructure
+* [cite_start]**Environmental Systems:** Turnkey projects for Air Pollution Control, Noise Abatement, and Ventilation systems[cite: 80, 153].
+* [cite_start]**Porta Cabins:** Manufacturers of fully furnished portable bunkhouses and site offices[cite: 51, 53].
+* [cite_start]**Steel & Piping:** Supply and fabrication of MS/SS/Alloy structural steel, pipes, and fittings[cite: 49, 180].
+* [cite_start]**Power Plant Systems:** Dry and wet Flue Gas Desulphurization (FGD) systems and Ash management[cite: 116, 117, 193].
 
-## Deploy on Vercel
+### 3. Maintenance & Refurbishment
+* [cite_start]**Valve Solutions:** Specializing in In-situ valve servicing, online safety valve testing, and HP/LP valve refurbishment[cite: 155, 160, 161].
+* [cite_start]**Rotating Machinery:** Repair and overhaul of TG, centrifugal pumps, gearboxes, and white metal bearings[cite: 179].
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# adijey
