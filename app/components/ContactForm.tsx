@@ -50,7 +50,7 @@ export default function ContactForm() {
   return (
     <div style={{ padding: "2.5rem", background: "var(--bg-card)", border: "1px solid var(--border)", borderRadius: "8px" }}>
       <div style={{ fontFamily: "var(--font-display)", fontSize: "1.5rem", fontWeight: 600, color: "var(--text-primary)", marginBottom: "2rem" }}>
-        Send an Enquiry
+        Send an Enquiry (NOT AVAILABLE)
       </div>
 
       <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1.25rem", marginBottom: "1.25rem" }} className="form-2col">
