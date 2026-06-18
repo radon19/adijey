@@ -4,7 +4,7 @@ import { useState } from "react";
 import axios, { AxiosError } from "axios";
 
 const RATE_LIMIT_KEY = "adijey_last_enquiry";
-const RATE_LIMIT_MS = 30 * 60 * 1000; // 30 minutes
+const RATE_LIMIT_MS = 10 * 60 * 1000; // 10 minutes
 
 type FormState = {
   name: string;
