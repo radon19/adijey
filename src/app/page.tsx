@@ -261,16 +261,14 @@ export default function Home() {
       {/* Primary Action: White box with theme-red text */}
       <Link 
         href="/contact" 
-        className="bg-white text-black px-8 py-3 rounded-full font-sans font-bold shadow-md hover:shadow-lg transition-all"
-        
-      >
+        className="bg-white text-black px-8 py-3 rounded-full font-sans font-bold shadow-md hover:shadow-lg transition-all hover:scale-115"    >
         Send Enquiry
       </Link>
       
       {/* Secondary Action: White box with dark gray text and a subtle border */}
       <Link 
         href="/services" 
-        className="bg-white text-black border border-gray-200 px-8 py-3 rounded-full font-sans font-bold shadow-sm hover:shadow-md transition-all"
+        className="bg-white text-black border border-gray-200 px-8 py-3 rounded-full font-sans font-bold shadow-sm hover:shadow-md transition-all hover:scale-115"
       >
         View Services
       </Link>

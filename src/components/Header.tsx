@@ -32,9 +32,9 @@ export default function Header() {
         </nav>
 
         {/* CTA Button */}
-        <button className={`${montserrat.className} flex gap-12 rounded-full bg-[#760031] px-6 py-3 text-bold font-medium text-white transition hover:scale-105 hover:bg-gray-800`}>
+        <Link href="/contact" className={`${montserrat.className} flex gap-12 rounded-full bg-[#760031] px-6 py-3 text-bold font-medium text-white transition hover:scale-105 hover:bg-gray-800`}>
           CONTACT US
-        </button>
+        </Link>
       </div>
     </header>
   );
