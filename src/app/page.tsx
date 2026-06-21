@@ -34,7 +34,7 @@ const approvals = ["MECON", "PDIL", "Avant Garde", "Desein", "EIL", "TCE", "Toyo
 
 const highlights = [
   { icon: "⚙️", title: "Procurement Outsourcing", href: "/services", desc: "Strategic sourcing, e-auctions, contract management and vendor qualification." },
-  { icon: "📦", title: "Material Supply", href: "/products", desc: "18+ product categories — PPE, electrical, C&I, chemicals, structural steel." },
+  { icon: "📦", title: "Material Supply", href: "/portfolio", desc: "18+ product categories — PPE, electrical, C&I, chemicals, structural steel." },
   { icon: "🏗️", title: "Design & EPC", href: "/services", desc: "Turnkey projects: fans, FGD systems, pollution control, material handling." },
   { icon: "🔧", title: "Repair & Overhaul", href: "/services", desc: "Valve servicing, reverse engineering, capital equipment repair across India." },
 ];

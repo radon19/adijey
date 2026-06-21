@@ -171,7 +171,7 @@ export default function IndustriesPage() {
               </p>
             </div >
 <Link 
-        href="/services" 
+        href="/contact" 
         className="bg-white text-black border border-gray-200 px-8 py-3 rounded-full font-sans font-bold shadow-sm hover:shadow-md transition-all hover:scale-115"
       >
          Talk to our team → </Link>
